@@ -47,6 +47,7 @@ public class Main : MonoBehaviour
         {
             isopen = !isopen;
         }
+        GUI.DragWindow();
     }
 
     private void GetBanned()
