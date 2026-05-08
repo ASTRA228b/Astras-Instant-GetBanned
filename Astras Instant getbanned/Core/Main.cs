@@ -8,7 +8,7 @@ namespace AI_GT.Core;
 public class Main : MonoBehaviour
 {
     private bool isopen = false;
-    private Rect H = new(111, 111, 111, 111);
+    private Rect H = new(300, 300, 300, 300);
     private float HH = 999f;
     private float WW = 1f;
     private bool spedboost = false;
